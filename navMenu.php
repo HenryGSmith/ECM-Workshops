@@ -7,11 +7,11 @@
       </button>
       <div class="collapse navbar-collapse" id="navbar">
         <div class="navbar-nav">
-          <a class="nav-link" href="../index.html">Home</a>
-          <a class="nav-link" href="#ecm1400">ECM 1400</a>
-          <a class="nav-link" href="#ecm1407">ECM 1407</a>
-          <a class="nav-link" href="#ecm1410">ECM 1410</a>
-          <a class="nav-link" href="#ecm1413">ECM 1413</a>
+          <a class="nav-link" href="/index.html">Home</a>
+          <a class="nav-link" href="/Workshop-02/html-Basics.php#ecm1400">ECM 1400</a>
+          <a class="nav-link" href="/Workshop-02/html-Basics.php#ecm1407">ECM 1407</a>
+          <a class="nav-link" href="/Workshop-02/html-Basics.php#ecm1410">ECM 1410</a>
+          <a class="nav-link" href="/Workshop-02/html-Basics.php#ecm1413">ECM 1413</a>
         </div>
       </div>
     </div>
